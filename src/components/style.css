@@ -1,0 +1,9 @@
+.gradient-custom {
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 0.9), rgba(37, 117, 252, 0.9));
+  
+    background: linear-gradient(to right, rgba(106, 17, 203, 0.9), rgba(37, 117, 252, 0.9));
+  }
+
+  .fs-lg-2 {
+    font-size: 1.5rem;
+  }
